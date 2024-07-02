@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948709744510",
+    "project_id": "firestorageakshy",
+    "storage_bucket": "firestorageakshy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948709744510:android:05f07de3045e33f9e91d2f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPkh0rQILmMc0CVbh7OdKb54x7BF3ZdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
